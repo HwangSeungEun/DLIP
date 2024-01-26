@@ -1,0 +1,16 @@
+names:
+- b_rub
+- crosswalk
+- stopline
+- y_rub
+nc: 4
+
+roboflow:
+  license: CC BY 4.0
+  project: hada_segment
+  url: https://universe.roboflow.com/hada/hada_segment/dataset/5
+  version: 5
+  workspace: hada
+test: test/images
+train: train/images
+val: valid/images
