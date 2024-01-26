@@ -27,5 +27,6 @@
 *.txt
 *.exe
 *.png
+*.ipch
 
 
